@@ -1,0 +1,41 @@
+.container{
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:orangered;
+    padding-top: 30px;
+    text-decoration:underline;
+}
+
+p{
+    color: red;
+    font-weight:400px;
+}
+.card-body{
+    height:6cm;
+}
+.card{
+    border: 1px solid dimgray;
+    padding:10px;
+    
+}
+
+
+.card {
+    width: 300px;
+    height: 350px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.card img {
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+}
+
+.card:hover img {
+    transform: scale(1.1);
+}

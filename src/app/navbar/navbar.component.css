@@ -1,0 +1,26 @@
+.navbar{
+    
+    background: rgba(13, 67, 26, 0.914);
+
+}
+.nav-item .nav-link{
+    color:rgba(0, 0, 0, 0.787);
+}
+
+
+.nav-item .nav-link.active:hover{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(233, 56, 56);
+}
+
+.bg{
+    height: 120px;
+    width: 120px;
+}
+
+img{
+    height: 20px;
+    width: 20px;
+    
+}

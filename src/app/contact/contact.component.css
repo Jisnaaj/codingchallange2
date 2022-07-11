@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    height: 100%;
+    
+}
+.form{
+    padding-top: 90px;
+    padding-left:50px;
+}
+button{
+    width:40%;
+    height: 1cm;
+    margin-left: 20px;
+    box-shadow:1cm;
+    border-radius: 70%;
+    background-color: red;
+  animation-name: example;
+  animation-duration: 3s;
+}
+@keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+p{
+    margin-left: 40%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(7, 120, 22);
+    
+}
+input{
+    
+    border: 1px solid darkcyan;
+}
+
+.cardbody{
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width:70%;
+    background-color: rgba(111, 231, 233, 0.805);
+}

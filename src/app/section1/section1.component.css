@@ -1,0 +1,33 @@
+
+.row{
+    background: rgba(13, 67, 26, 0.914);
+    
+     height: 590px; 
+}
+
+.section2{
+    width: 100%;
+}
+
+.title {
+    margin:70px;
+    margin-top: 30%;
+    color:white;
+}
+.title p{
+    color: white;
+}
+h1{
+    color: gold;
+}
+.box{
+    margin-top: 70px;
+    width:500px;
+}
+img{
+    height: 300px;
+    width:400px;
+}
+p{
+    color:chartreuse;
+}   
